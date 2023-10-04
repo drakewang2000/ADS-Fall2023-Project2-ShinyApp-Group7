@@ -1,0 +1,12 @@
+---
+title: "proj2_group7_ShinyApp"
+output: html_document
+date: "2023-10-04"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+OpenFEMA Dataset: Hazard Mitigation Assistance Projects - v3
+https://www.fema.gov/openfema-data-page/hazard-mitigation-assistance-projects-v3 
