@@ -2,6 +2,7 @@
 title: "proj2_group7_ShinyApp"
 output: html_document
 date: "2023-10-04"
+Yoojin Lee, Yitian Shen, Zhaolin Wang, Pengjin Wang
 ---
 
 ```{r setup, include=FALSE}
@@ -11,6 +12,28 @@ knitr::opts_chunk$set(echo = TRUE)
 OpenFEMA Dataset: Hazard Mitigation Assistance Projects - v3
 https://www.fema.gov/openfema-data-page/hazard-mitigation-assistance-projects-v3
 
-hello world
+```{r}
+library(tidyverse)
+library(tidytext)
+library(dplyr)
+```
 
-hi my name is Bessie
+3. Type of Disasters (Bessie)
+```{r}
+# load hazard mitigation data
+hm_data <- read_csv("/Users/wpj/Downloads/HazardMitigationAssistanceProjects.csv")
+# load summary data containing identifier number
+summary_data <- read_csv("/Users/wpj/Downloads/DisasterDeclarationsSummaries.csv")
+# head(hm_data)
+# head(summary_data)
+```
+
+```{r}
+summary_data <- summary_data %>%
+  select(disasterNumber, incidentType, title)
+hm_data <- inner_join(summary_data, hm_data, by = 'disasterNumber')
+head(hm_data)
+```
+
+
+
