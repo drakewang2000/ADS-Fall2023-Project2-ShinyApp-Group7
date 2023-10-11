@@ -39,7 +39,7 @@ For the government: It provides insights and data-driven recommendations on disa
 
 Project 2 group 7
 
-Team members: Avi Bond, Comma Deed, En Funn, Gem Hon
+Team members: Zhaolin Wang, Yoojin Lee, Bessie Wang, Yitian Shen
 
 Summary: In this project, we utilize the Hazard Mitigation Assistance (HMA) Projects dataset from FEMA to design a Shiny app. This app assists American residents in disaster preparedness and offers insights for the government on future fund allocation and disaster response strategies.
 
