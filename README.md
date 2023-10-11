@@ -24,10 +24,11 @@ Team #7
 **Team members**: Zhaolin Wang, Yoojin Lee, Bessie Wang, Yitian Shen
 
 + **Source of the Data Set**:
-+ Our main dataset in this project is ** OpenFEMA Dataset: Hazard Mitigation Assistance Projects - v3 **.
+Our main dataset in this project is **OpenFEMA Dataset: Hazard Mitigation Assistance Projects - v3 **.
+
 (url: https://www.fema.gov/openfema-data-page/hazard-mitigation-assistance-projects-v3 )
 The dataset contains funded projects (financial obligation to grantee) under the Hazard Mitigation Assistance (HMA) grant programs. FEMA administers three programs that provide funding for eligible mitigation planning and projects that reduces disaster losses and protect life and property from future disaster damages. 
-We also used ** OpenFEMA Dataset: Disaster Declarations Summaries - v1 ** to get deeper information about the disaster types.
+We also used **OpenFEMA Dataset: Disaster Declarations Summaries - v1 ** to get deeper information about the disaster types.
 (url: )https://www.fema.gov/openfema-data-page/disaster-declarations-summaries-v1
 
 + **Project summary**:
