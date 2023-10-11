@@ -38,11 +38,9 @@ For the government: It provides insights and data-driven recommendations on disa
 
 + **Contribution statement**:
 
-Project 2 - group 7
+**Team members**: Zhaolin Wang, Yoojin Lee, Bessie Wang, Yitian Shen
 
-Team members: Zhaolin Wang, Yoojin Lee, Bessie Wang, Yitian Shen
-
-Summary: In this project, we utilize the Hazard Mitigation Assistance (HMA) Projects dataset from FEMA to design a Shiny app. This app assists American residents in disaster preparedness and offers insights for the government on future fund allocation and disaster response strategies.
+**Summary**: In this project, we utilize the Hazard Mitigation Assistance (HMA) Projects dataset from FEMA to design a Shiny app. This app assists American residents in disaster preparedness and offers insights for the government on future fund allocation and disaster response strategies.
 
 [Contribution Statement] AB, CD, EF and GH designed the study. AB and CD developed baseline classification model for evaluation. EF and GH explored feature engineering for improving the baseline model. AB, EF and GH discussed and designed the model evaluation protocol. CD carried out the computation for model evaluation. All team members contributed to the GitHub repository and prepared the presentation. All team members approve our work presented in our GitHub repository including this contribution statement.
 
