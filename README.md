@@ -25,7 +25,7 @@ Term: Fall 2022
 	+ Zhaolin Wang 
 	+ Yoojin Lee
 	+ Bessie Wang
-	+ Yitian Shen
+	+ Yitian Shen (dropped out of class)
 
 + **Project summary**:
 + In the face of unpredictable disasters, from pandemics like COVID-19 to natural calamities like hurricanes, preparedness is paramount. With New York City as a focal point, this project delves into the Hazard Mitigation Assistance (HMA) Projects dataset, which chronicles the diverse disaster risk reduction projects financed by the Federal Emergency Management Agency (FEMA). FEMA's objective is not just reactive but proactive – funding projects that diminish potential losses and safeguard lives and assets from upcoming threats.
