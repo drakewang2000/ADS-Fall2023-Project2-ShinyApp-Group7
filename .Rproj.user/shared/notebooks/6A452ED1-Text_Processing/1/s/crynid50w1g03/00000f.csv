@@ -1,2 +1,3 @@
-"0","urlfile<-'https://raw.githubusercontent.com/rit-public/HappyDB/master/happydb/data/cleaned_hm.csv'"
-"0","hm_data <- read_csv(urlfile)"
+version https://git-lfs.github.com/spec/v1
+oid sha256:55104851155d6874f41bb101a8faa25b2b2229c1eeb7d3d271cdaf5aeba1ce65
+size 140
