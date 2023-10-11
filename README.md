@@ -38,7 +38,7 @@ For the government: It provides insights and data-driven recommendations on disa
 
 + **Contribution statement**:
 
-Project 2 group 7
+Project 2 - group 7
 
 Team members: Zhaolin Wang, Yoojin Lee, Bessie Wang, Yitian Shen
 

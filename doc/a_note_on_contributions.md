@@ -9,11 +9,11 @@ Post your title, team members, project abstract and a contribution statement in 
 Below is an example. If no contribution statement is provided, we will insert a default statement that goes "**All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement**. "
 
 ---
-Sample project README statement.
+Project README statement.
 
-Project xxx
+## Project Title : "Hazard Mitigation Analysis"
 
-Team members: Avi Bond, Comma Deed, En Funn, Gem Hon
+**Team members**: Yoojin Lee, Zhaolin Wang, Bessie Wang, Yitian Shen
 
 Summary: In this project, we developed a new method and improved the classification accuracy for images of cats and dogs to 99.9%
 
