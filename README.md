@@ -6,6 +6,8 @@
 
 ![screenshot](doc/figs/main_fig.png)
 
+**Project Summary**: In this project, we utilize the Hazard Mitigation Assistance (HMA) Projects dataset from FEMA to design a Shiny app. This app assists American residents in disaster preparedness and offers insights for the government on future fund allocation and disaster response strategies.
+
 In this second project of GR5243 Applied Data Science, we developed a *Exploratory Data Analysis and Visualization* shiny app using **Federal Emergency Management Agency (FEMA)'s dataset**. In particular, this project delved into the dataset of FEMA's funded projects (financial obligation to grantee) under the Hazard Mitigation Assistance (HMA) grant programs.
  See [Project 2 Description](doc/project2_desc.md) for more details.  
 
@@ -37,10 +39,6 @@ We also used **OpenFEMA Dataset: Disaster Declarations Summaries - v1** to get d
 + Our interactive Shiny app serves a dual purpose:
 For citizens: It equips them with knowledge to preemptively prepare for and react to potential disasters.
 For the government: It provides insights and data-driven recommendations on disaster preparedness, ensuring that funds are adequately and wisely set aside for future mitigation initiatives.
-
-+ **Contribution statement**:
-
-**Summary**: In this project, we utilize the Hazard Mitigation Assistance (HMA) Projects dataset from FEMA to design a Shiny app. This app assists American residents in disaster preparedness and offers insights for the government on future fund allocation and disaster response strategies.
 
 **[Contribution Statement]** 
 -  Yoojin Lee: Wrote project introduction, performed EDA on funds, Produced graphs for fund percentage allocation heat map, produced fund allocation by disasters bar chart, wrote deep analyses for graphs produced, put everyone’s contribution statements together, uploaded documents and edited README & other documentations.
