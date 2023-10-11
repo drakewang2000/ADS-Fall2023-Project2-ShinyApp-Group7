@@ -19,7 +19,7 @@ The **learning goals** for this project is:
 ## Project Title Lorem ipsum dolor sit amet
 Term: Fall 2022
 
-+ Team #
++ Team #7
 + **Projec title**: 
 	+ Zhaolin Wang
 	+ Yoojin Lee
