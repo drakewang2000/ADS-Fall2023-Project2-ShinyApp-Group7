@@ -19,12 +19,9 @@ The **learning goals** for this project is:
 
 ## Project Title : "Hazard Mitigation Analysis"
 Term: Fall 2022
+Team #7
 
-+ **Team #7 Members**: 
-	+ Zhaolin Wang 
-	+ Yoojin Lee
-	+ Bessie Wang
-	+ Yitian Shen (dropped out of class)
+**Team members**: Zhaolin Wang, Yoojin Lee, Bessie Wang, Yitian Shen
 
 + **Project summary**:
 + In the face of unpredictable disasters, from pandemics like COVID-19 to natural calamities like hurricanes, preparedness is paramount. With New York City as a focal point, this project delves into the Hazard Mitigation Assistance (HMA) Projects dataset, which chronicles the diverse disaster risk reduction projects financed by the Federal Emergency Management Agency (FEMA). FEMA's objective is not just reactive but proactive – funding projects that diminish potential losses and safeguard lives and assets from upcoming threats.
@@ -36,8 +33,6 @@ For citizens: It equips them with knowledge to preemptively prepare for and reac
 For the government: It provides insights and data-driven recommendations on disaster preparedness, ensuring that funds are adequately and wisely set aside for future mitigation initiatives.
 
 + **Contribution statement**:
-
-**Team members**: Zhaolin Wang, Yoojin Lee, Bessie Wang, Yitian Shen
 
 **Summary**: In this project, we utilize the Hazard Mitigation Assistance (HMA) Projects dataset from FEMA to design a Shiny app. This app assists American residents in disaster preparedness and offers insights for the government on future fund allocation and disaster response strategies.
 
