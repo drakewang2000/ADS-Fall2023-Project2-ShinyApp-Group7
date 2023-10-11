@@ -24,12 +24,9 @@ Team #7
 **Team members**: Zhaolin Wang, Yoojin Lee, Bessie Wang, Yitian Shen
 
 + **Source of the Data Set**:
-Our main dataset in this project is **OpenFEMA Dataset: Hazard Mitigation Assistance Projects - v3 **.
-
-(url: https://www.fema.gov/openfema-data-page/hazard-mitigation-assistance-projects-v3 )
-The dataset contains funded projects (financial obligation to grantee) under the Hazard Mitigation Assistance (HMA) grant programs. FEMA administers three programs that provide funding for eligible mitigation planning and projects that reduces disaster losses and protect life and property from future disaster damages. 
-We also used **OpenFEMA Dataset: Disaster Declarations Summaries - v1 ** to get deeper information about the disaster types.
-(url: )https://www.fema.gov/openfema-data-page/disaster-declarations-summaries-v1
+Our main dataset in this project is **OpenFEMA Dataset: Hazard Mitigation Assistance Projects - v3**. This dataset contains funded projects (financial obligation to grantee) under the Hazard Mitigation Assistance (HMA) grant programs. FEMA administers three programs that provide funding for eligible mitigation planning and projects that reduces disaster losses and protect life and property from future disaster damages. 
+We also used **OpenFEMA Dataset: Disaster Declarations Summaries - v1** to get deeper information about the disaster types.
+Datasets can be find here: https://www.fema.gov/openfema-data-page/hazard-mitigation-assistance-projects-v3 
 
 + **Project summary**:
 + In the face of unpredictable disasters, from pandemics like COVID-19 to natural calamities like hurricanes, preparedness is paramount. With New York City as a focal point, this project delves into the Hazard Mitigation Assistance (HMA) Projects dataset, which chronicles the diverse disaster risk reduction projects financed by the Federal Emergency Management Agency (FEMA). FEMA's objective is not just reactive but proactive – funding projects that diminish potential losses and safeguard lives and assets from upcoming threats.
