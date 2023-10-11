@@ -1,0 +1,3 @@
+"0","stemmed <- tm_map(corpus, stemDocument) %>%"
+"0","  tidy() %>%"
+"0","  select(text)"

@@ -1,0 +1,4 @@
+"0","dict <- tidy(corpus) %>%"
+"0","  select(text) %>%"
+"0","  unnest_tokens(dictionary, text)"
+"2","Warning: Outer names are only allowed for unnamed scalar atomic inputs"

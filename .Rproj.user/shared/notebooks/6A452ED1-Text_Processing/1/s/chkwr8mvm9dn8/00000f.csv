@@ -1,0 +1,7 @@
+"0","data(""stop_words"")"
+"0",""
+"0","word <- c(""happy"",""ago"",""yesterday"",""lot"",""today"",""months"",""month"","
+"0","                 ""happier"",""happiest"",""last"",""week"",""past"")"
+"0",""
+"0","stop_words <- stop_words %>%"
+"0","  bind_rows(mutate(tibble(word), lexicon = ""updated""))"

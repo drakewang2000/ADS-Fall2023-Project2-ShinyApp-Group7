@@ -1,0 +1,6 @@
+"0","corpus <- VCorpus(VectorSource(hm_data$cleaned_hm))%>%"
+"0","  tm_map(content_transformer(tolower))%>%"
+"0","  tm_map(removePunctuation)%>%"
+"0","  tm_map(removeNumbers)%>%"
+"0","  tm_map(removeWords, character(0))%>%"
+"0","  tm_map(stripWhitespace)"

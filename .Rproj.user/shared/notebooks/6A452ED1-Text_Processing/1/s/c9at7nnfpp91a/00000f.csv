@@ -1,0 +1,4 @@
+"0","completed <- completed %>%"
+"0","  group_by(id) %>%"
+"0","  summarise(text = str_c(word, collapse = "" "")) %>%"
+"0","  ungroup()"
