@@ -1,5 +1,5 @@
 README about the contribution statement.
-
+--
 ## Project Title : "Hazard Mitigation Analysis"
 
 **Team members**: Yoojin Lee, Zhaolin Wang, Bessie Wang, Yitian Shen
