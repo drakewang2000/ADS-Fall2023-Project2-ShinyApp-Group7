@@ -20,14 +20,20 @@ The **learning goals** for this project is:
 Term: Fall 2022
 
 + Team #
-+ **Projec title**: + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
++ **Projec title**: 
+	+ Zhaolin Wang
+	+ Yoojin Lee
+	+ Bessie Wang
+	+ Yitian Shen
 
-+ **Project summary**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ **Project summary**:
++ In the face of unpredictable disasters, from pandemics like COVID-19 to natural calamities like hurricanes, preparedness is paramount. With New York City as a focal point, this project delves into the Hazard Mitigation Assistance (HMA) Projects dataset, which chronicles the diverse disaster risk reduction projects financed by the Federal Emergency Management Agency (FEMA). FEMA's objective is not just reactive but proactive – funding projects that diminish potential losses and safeguard lives and assets from upcoming threats.
+
++ The dataset offers a detailed breakdown: from the nature of the disaster and its specific location, to the overall project costs and the extent of federal funding granted. By analyzing this dataset, the project seeks to:
+  
++ Our interactive Shiny app serves a dual purpose:
+For citizens: It equips them with knowledge to preemptively prepare for and react to potential disasters.
+For the government: It provides insights and data-driven recommendations on disaster preparedness, ensuring that funds are adequately and wisely set aside for future mitigation initiatives.
 
 + **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
