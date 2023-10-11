@@ -21,7 +21,7 @@ The **learning goals** for this project is:
 Term: Fall 2022
 
 + Team #7
-+ **Hazard Mitigation Analysis**: 
++ **Hazard Mitigation Analysis - Team Members**: 
 	+ Zhaolin Wang
 	+ Yoojin Lee
 	+ Bessie Wang
