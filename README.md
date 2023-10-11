@@ -22,7 +22,7 @@ Term: Fall 2022
 
 + Team #7
 + **Hazard Mitigation Analysis - Team Members**: 
-	+ Zhaolin Wang
+	+ Zhaolin Wang 
 	+ Yoojin Lee
 	+ Bessie Wang
 	+ Yitian Shen
