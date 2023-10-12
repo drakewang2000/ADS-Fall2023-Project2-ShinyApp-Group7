@@ -43,7 +43,7 @@ For the government: It provides insights and data-driven recommendations on disa
 **[Contribution Statement]** 
 -  Yoojin Lee: Wrote project introduction, performed EDA on funds, Produced graphs for fund percentage allocation heat map, produced fund allocation by disasters bar chart, wrote deep analyses for graphs produced, put everyone’s contribution statements together, uploaded documents and edited README & other documentations.
 	
-- Zhaolin Wang: Wrote project introduction, performed EDA on disaster trends, Produced disaster geographical disstribution heat map, produced disaster time distribution bar chart, wrote deep analyses for graphs produced, design ui and put everyone’s code together to built shiny app server, Deployed both locally on R and on the internet, revised & finalized main R file.
+- Zhaolin Wang: Wrote project introduction, performed EDA on disaster trends, Produced disaster geographical disstribution heat map, produced disaster time distribution bar chart, Wrote deep analyses for graphs produced, Designed ui component and put everyone’s code together to built shiny app server, Deployed both locally on R and on the internet, revised & finalized main R file.
 	
 - Bessie Wang: Wrote project introduction, Performed EDA on disaster trends, Produced crucial fund amount factors prediction bar chart, Produced NY 2024 disaster predictions pie chart, revised & finalized main R file, presented the Shiny App project with analyses & limitations, organized meeting task allocations.
 
