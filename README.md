@@ -2,7 +2,7 @@
 
 ### [Project Description](doc/project2_desc.md)
 
-**link for our ShinyApp**: https://drake-wang-2000.shinyapps.io/project2-7/
+**link for our ShinyApp**: https://drake-wang-2000.shinyapps.io/project2/
 
 ![screenshot](doc/figs/main_fig.png)
 
